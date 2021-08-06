@@ -1,0 +1,12 @@
+body {
+  background-image: url("bg.jpg");
+}
+p {
+  color: white;
+}
+h1 {
+  color: white;
+}
+p {
+  color: green;
+}
